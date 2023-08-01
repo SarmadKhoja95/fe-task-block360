@@ -8,6 +8,4 @@ npm run dev
 ```
 
 ## Packages
-- `@rainbow-me/rainbowkit`: For managing multiple wallet connections.
-- `wagmi`: React Hooks for Ethereum
-- `vite`: Next Generation Frontend Tooling
+- `ethers`: For managing web3 transactions.
